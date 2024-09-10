@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://drecxe.github.io/Taz/sitemap.Taz.gz
